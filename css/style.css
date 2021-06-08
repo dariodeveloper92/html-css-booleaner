@@ -1,9 +1,7 @@
 .container {
-    background-color: rgb(31, 91, 255);
-    height: 10%;
-    width: 100%;
-    background-image: url("paper.gif");
-  background-repeat: repeat-x;
+    background-image:url(img/pattern.jpg);
+    background-size: 50%;
+    background-repeat: repeat-x;
 }
 
 .logo{

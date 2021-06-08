@@ -1,13 +1,16 @@
 .container {
     background-color: rgb(31, 91, 255);
-    background-repeat: repeat-x;
-    }
+    height: 10%;
+    width: 100%;
+    background-image: url("paper.gif");
+  background-repeat: repeat-x;
+}
 
 .logo{
     height: 15%;
     width: 15%;
     margin-right: 1300px;
-    }
+}
 
 h4{
     color: gray;
@@ -32,7 +35,7 @@ th{
 
 .sottolineato{
     background-color: rgb(251, 255, 21);
-    }
+}
 
 h3{
     color:gray
